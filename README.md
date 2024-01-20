@@ -1,6 +1,7 @@
+
 </h1> <h1 align="center">Hi 👋, I'm Andrea Velasquez</h1>
 
-<h3 align="center">A passionate QA Engineer</h3>
+<h3 align="center">QA Engineer</h3>
 
 <h3 align="left">About me:</h3>
 
