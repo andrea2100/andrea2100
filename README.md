@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/andrea2100/andrea2100/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png" width="800"/>
+</div>
 
 </h1> <h1 align="center">Hi 👋, I'm Andrea Velasquez</h1>
 
